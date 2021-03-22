@@ -1,11 +1,10 @@
 # print("Hello World👋"); 
  
  My name is Darwin Jiménez, i'm developer and a passionate about technology, my main hobbies are swimming and developing hybrid mobile applications using Flutter.
+ 
+ You can follow me on instagram where i publish new content
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✨[instagram](https://www.instagram.com/ITSDARWINDEV/)
 
 <!---
 DARWINDEV/DARWINDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
