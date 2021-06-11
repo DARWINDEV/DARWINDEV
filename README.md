@@ -4,7 +4,7 @@
  
  You can follow me on instagram where i publish new content
 
-- ✨[instagram](https://www.instagram.com/ITSDARWINDEV/)
+- ✨[instagram](https://www.instagram.com/itsdarwincode/)
 
 <!---
 DARWINDEV/DARWINDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
