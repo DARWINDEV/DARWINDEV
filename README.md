@@ -19,6 +19,4 @@
 </br>
 
 
-## Find me in:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Jiménez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/itsdarwindev)
 
