@@ -2,6 +2,8 @@
  
  My name is Darwin Jiménez, i'm developer and a passionate about technology, my main hobbies are swimming and code front-end and mobile applications 🤩. In December 2020 I finished my university studies where in September of the same year I had my first job opportunity. For two years I have been active in software communities where every day I learn new things and help my professional training. I hope my repository is of interest to you 💖
  
+ An active community member of <a href = "https://twitter.com/codigofacilito?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Código facilito</a> 🐊♥
+ 
 ## Skills:
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
