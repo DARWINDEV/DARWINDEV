@@ -1,5 +1,7 @@
 ![banner-github](https://user-images.githubusercontent.com/52447471/136502915-842e1e8e-9be0-40e4-96b9-ae99072e3b58.png)
 
+### A little bit of me 🐱‍👤:
+
 * Developer JR 👨‍💻.
 * Frontend 👨‍🎨
 * Coffe without sugar team ☕
