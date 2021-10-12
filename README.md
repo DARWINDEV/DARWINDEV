@@ -4,7 +4,7 @@
 
 * Developer JR 👨‍💻.
 * Frontend 👨‍🎨
-* Coffe without sugar team ☕
+* Coffee without sugar team ☕
 * I love develop mobile and web 💖
 * Perseverance is the key 🦾
  
