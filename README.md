@@ -8,7 +8,7 @@
 * Perseverance is the key 🦾
  
 
- An active community member of <a href = "https://twitter.com/codigofacilito?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Código facilito</a> 🐊♥
+ Team <a href = "https://twitter.com/codigofacilito?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Código facilito</a> 🐊♥
  
 ### Skills:
 
