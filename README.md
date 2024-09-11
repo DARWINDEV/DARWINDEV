@@ -2,7 +2,7 @@
 
 ### A little bit of me 🐱‍👤:
 
-* Software Tester Engineer 👨‍💻.
+* Software Engineer in Test👨‍💻.
 * Coffee without sugar team ☕
 * I love develop mobile and web 💖
 * Perseverance is the key 🦾
